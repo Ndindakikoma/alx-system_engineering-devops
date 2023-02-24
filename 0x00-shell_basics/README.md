@@ -1,1 +1,1 @@
-SCRIPT
+# pwd current working directory 
